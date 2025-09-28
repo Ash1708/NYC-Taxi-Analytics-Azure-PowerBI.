@@ -56,14 +56,7 @@ Q1: How does taxi demand & revenue vary by month?
    * Insight:
      Seasonal variation visible; revenue trends follow trip volume.
 
-Q2: At what times of day and days of the week is demand highest?
-   * Visual: Heatmap (Matrix with Conditional Formatting).
-   * Insight:
-    Weekday peaks during morning/evening commute hours.
-
-Weekend late-night peaks (Fri/Sat).
-
-Q3: Do more passengers mean longer trips or higher revenue?
+Q2: Do more passengers mean longer trips or higher revenue?
 
   * Visuals:Bar chart (Avg Revenue & Distance per Passenger Bucket).
   * Scatter plot (Passenger Count vs Avg Revenue, bubble size = trips).
@@ -71,6 +64,15 @@ Q3: Do more passengers mean longer trips or higher revenue?
     Single-passenger trips dominate in volume.
     Group trips (3–6+) are longer and generate higher revenue per trip.
     Tip % varies by group size.
+
+
+Q3: At what times of day and days of the week is demand highest?
+   * Visual: Heatmap (Matrix with Conditional Formatting).
+   * Insight:
+    Weekday peaks during morning/evening commute hours.
+
+Weekend late-night peaks (Fri/Sat).
+
 
 ## 💡 Key Skills Demonstrated
 - Cloud data engineering: Azure Data Lake, Synapse, Data Factory  
