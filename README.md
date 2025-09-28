@@ -49,14 +49,14 @@ This project demonstrates a real-world data pipeline and business intelligence s
 * Connected DirectQuery to Synapse SQL endpoint. Built visuals answering real-world business questions.
 
 
-### Business Questions & Insights
-Q1: How does taxi demand & revenue vary by month?
+## Business Questions & Insights
+### Q1: How does taxi demand & revenue vary by month?
    * Visuals: Line charts (Trips per Month, Revenue per Month). ![Revenue and Trips by Month](Visuals/Revenue_trips_months.png)
 
    * Insight:
      Seasonal variation visible; revenue trends follow trip volume.
 
-Q2: Do more passengers mean longer trips or higher revenue?
+### Q2: Do more passengers mean longer trips or higher revenue?
 
   * Visuals:Bar chart (Avg Revenue & Distance per Passenger Bucket).![Revenue and Trips by Month](Visuals/passenger_revenue_analysis.png)
   * Scatter plot (Passenger Count vs Avg Revenue, bubble size = trips). ![Revenue and Trips by Month](Visuals/passenger_revenue_analysis_scatter.png)
@@ -66,7 +66,7 @@ Q2: Do more passengers mean longer trips or higher revenue?
     Tip % varies by group size.
 
 
-Q3: At what times of day and days of the week is demand highest?
+### Q3: At what times of day and days of the week is demand highest?
    * Visual: Heatmap (Matrix with Conditional Formatting).
    * Insight:
     Weekday peaks during morning/evening commute hours.
