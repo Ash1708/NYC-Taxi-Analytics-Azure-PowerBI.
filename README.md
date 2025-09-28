@@ -51,7 +51,7 @@ This project demonstrates a real-world data pipeline and business intelligence s
 
 ### Business Questions & Insights
 Q1: How does taxi demand & revenue vary by month?
-   * Visuals: Line charts (Trips per Month, Revenue per Month). ![Revenue and Trips by Month](Visuals/Revenue_trips_month.png)
+   * Visuals: Line charts (Trips per Month, Revenue per Month). ![Revenue and Trips by Month](Visuals/Revenue_trips_months.png)
 
    * Insight:
      Seasonal variation visible; revenue trends follow trip volume.
