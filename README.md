@@ -58,8 +58,8 @@ Q1: How does taxi demand & revenue vary by month?
 
 Q2: Do more passengers mean longer trips or higher revenue?
 
-  * Visuals:Bar chart (Avg Revenue & Distance per Passenger Bucket).
-  * Scatter plot (Passenger Count vs Avg Revenue, bubble size = trips).
+  * Visuals:Bar chart (Avg Revenue & Distance per Passenger Bucket).![Revenue and Trips by Month](Visuals/passenger_revenue_analysis.png)
+  * Scatter plot (Passenger Count vs Avg Revenue, bubble size = trips). ![Revenue and Trips by Month](Visuals/passenger_revenue_analysis_scatter.png)
   * Insight:
     Single-passenger trips dominate in volume.
     Group trips (3–6+) are longer and generate higher revenue per trip.
