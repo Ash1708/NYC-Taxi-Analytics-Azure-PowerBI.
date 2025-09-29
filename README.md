@@ -67,7 +67,7 @@ This project demonstrates a real-world data pipeline and business intelligence s
 
 
 ### Q3: At what times of day and days of the week is demand highest?
-   * Visual: Heatmap (Matrix with Conditional Formatting). 
+   * Visual: Heatmap (Matrix with Conditional Formatting). ![Revenue and Trips by Month](Visuals/highest_demand_days_time.png)
    * Insight:
     Weekday peaks during morning/evening commute hours.
 
