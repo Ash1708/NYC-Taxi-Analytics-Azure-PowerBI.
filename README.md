@@ -70,8 +70,7 @@ This project demonstrates a real-world data pipeline and business intelligence s
    * Visual: Heatmap (Matrix with Conditional Formatting). ![Revenue and Trips by Month](Visuals/highest_demand_days_time.png)
    * Insight:
     Weekday peaks during morning/evening commute hours.
-
-Weekend late-night peaks (Fri/Sat).
+    Weekend evenings to late-night peaks (Fri/Sat).
 
 
 ## 💡 Key Skills Demonstrated
